@@ -1,0 +1,22 @@
+.release/
+release/
+.export/
+.build/
+.cache/
+.tmp/
+
+.godot/
+.import/
+
+*.exe
+*.zip
+*.rar
+*.mp4
+*.wav
+*.iso
+*.bin
+*.pck
+
+# OS
+.DS_Store
+Thumbs.db
